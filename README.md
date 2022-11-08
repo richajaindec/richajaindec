@@ -4,7 +4,5 @@
 - 💞️ I’m looking data analyst jobs.
 - 📫 How to reach me LinkedIn.com
 -  --  I have completed Google Data Analytics Professional certificate in Sep,2022.
-   --- My LinkedIn profile - www.linkedin.com/in/richa-jain-7560a836
-richajaindec/richajaindec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-  --- My LinkedIn profile - www.linkedin.com/in/richa-jain-7560a836
+
