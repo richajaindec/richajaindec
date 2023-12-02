@@ -8,5 +8,5 @@
 - 👀 View my coding projects on Github https://github.com/richajaindec
 
 🛠 **Skills and Tools**
-- Tools: Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
+- Tools: Power BI ; Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
   Skills: Critical Thinking; Problem Solving; Communication.
